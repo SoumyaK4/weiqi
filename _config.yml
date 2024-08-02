@@ -35,7 +35,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: X2xjaBR2zboLew4SYvr_Gh1XD9ApVHB0EiekpfJawNY # fill in your Google verification code
   bing: # fill in your Bing verification code
   facebook: # fill in your Facebook verification code
 
@@ -47,7 +47,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: bnbs # fill in your GoatCounter ID
+    id: weiqi # fill in your GoatCounter ID
   cloudflare:
     id: # fill in your Cloudflare Web Analytics token
 

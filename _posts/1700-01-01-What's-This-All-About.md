@@ -5,7 +5,9 @@ author: SoumyaK4
 categories: [The Game's Overview]
 pin: true
 date: 1700-01-01 00:00:00 +0530
-image: /assets/img/posts/goban1.jpg
+image: 
+ path: /assets/img/posts/goban1.jpg
+ lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAx
 ---
 
 ## What is This Game?

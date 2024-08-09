@@ -12,20 +12,16 @@ date: 2023-01-01 00:00:00 +0530
 
 ## YouTube & Twitch Channels
 
-1. Clossius <a href="https://www.youtube.com/user/clossius" target="_blank">YouTube</a> & <a
-    href="https://www.twitch.tv/clossius" target="_blank">Twitch</a> - Shawn Ray 4Dan's Lectures
+1. Clossius <a href="https://www.youtube.com/user/clossius" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/clossius" target="_blank">Twitch</a> - Shawn Ray 4Dan's Lectures
 2. <a href="https://www.youtube.com/@simplebaduk/" target="_blank">Simple Baduk</a> - Simple Lectures
 3. <a href="https://www.youtube.com/channel/UCMp-4uv1jfVa0dXkZv3qQYA" target="_blank">NYIG</a> - New York Institute of
 Go
 4. <a href="https://www.youtube.com/@BadukScholars" target="_blank">Baduk Scholars</a> - Massechusetts Go Federation
 Lectures
-5. <a href="https://www.youtube.com/user/dwyrin" target="_blank">Dwyrin YouTube</a> / <a
-    href="https://www.twitch.tv/battsgo" target="_blank">BattsGo Twitch</a> - Josh 7Dan's Lectures
+5. <a href="https://www.youtube.com/user/dwyrin" target="_blank">Dwyrin YouTube</a> / <a href="https://www.twitch.tv/battsgo" target="_blank">BattsGo Twitch</a> - Josh 7Dan's Lectures
 6. <a href="https://www.youtube.com/user/YungusengDojang/" target="_blank">Yunguseng Dojang</a> - Online Go Academy
-7. Daniel ML <a href="https://www.youtube.com/user/danielml01/" target="_blank">YouTube</a> & <a
-    href="https://www.twitch.tv/danielml001" target="_blank">Twitch</a>
-8. BenKyo <a href="https://www.youtube.com/channel/UCsH0N8Hc4e4AXTnZt8Hg6fQ/" target="_blank">YouTube</a> & <a
-    href="https://www.twitch.tv/benkyobaduk" target="_blank">Twitch</a>
+7. Daniel ML <a href="https://www.youtube.com/user/danielml01/" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/danielml001" target="_blank">Twitch</a>
+8. BenKyo <a href="https://www.youtube.com/channel/UCsH0N8Hc4e4AXTnZt8Hg6fQ/" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/benkyobaduk" target="_blank">Twitch</a>
 9. <a href="https://www.youtube.com/@aigpindia" target="_blank">AIGP India</a>
 10. <a href="https://www.youtube.com/channel/UCyCA2PZzqsFlQifmSmWqe-w/" target="_blank">Yoonyoung Kim</a> - 8Dan Pro
 Player's Lectures
@@ -78,10 +74,7 @@ SGF Editor.
 
 1. <a href="https://tsumego-hero.com/" target="_blank">Tsumego Hero</a>
 2. <a href="https://gomagic.org/go-problems/" target="_blank">GoMagic Skill Tree</a>
-3. Tsumego Pro - <a
-    href="https://play.google.com/store/apps/details?id=net.lrstudios.android.tsumego_workshop&hl=en&gl=US"
-    target="_blank">Android</a>, <a href="https://apps.apple.com/us/app/tsumego-pro-go-problems/id892041876"
-    target="_blank">iOS</a>
+3. Tsumego Pro - <a href="https://play.google.com/store/apps/details?id=net.lrstudios.android.tsumego_workshop&hl=en&gl=US" target="_blank">Android</a>, <a href="https://apps.apple.com/us/app/tsumego-pro-go-problems/id892041876" target="_blank">iOS</a>
 4. <a href="https://play.google.com/store/apps/details?id=net.gowrite.hactarLite" target="_blank">Hactar Go Android</a>
 5. <a href="https://tsumegodragon.com/home" target="_blank">Tsumego Dragon by Clossius</a>
 6. <a href="https://www.101weiqi.com/">101Weiqi</a>
@@ -109,13 +102,10 @@ SGF Editor.
 ## Where to Play
 
 1. <a href="https://online-go.com/" target="_blank">OGS</a>
-2. <a href="https://www.foxwq.com/" target="_blank">Fox Weiqi</a> - Available for <a href="https://openfoxwq.github.io/"
-    target="_blank"> Mac, Windows, Linux</a>. No Web Version, and Android one only available in Chinese Language.
-3. <a href="https://yikewq.web.app/" target="_blank">Yike Weiqi English</a> & <a href="https://home.yikeweiqi.com/"
-    target="_blank">Original Chinese Version</a>
+2. <a href="https://www.foxwq.com/" target="_blank">Fox Weiqi</a> - Available for <a href="https://openfoxwq.github.io/" target="_blank"> Mac, Windows, Linux</a>. No Web Version, and Android one only available in Chinese Language.
+3. <a href="https://yikewq.web.app/" target="_blank">Yike Weiqi English</a> & <a href="https://home.yikeweiqi.com/" target="_blank">Original Chinese Version</a>
 4. <a href="https://badukpop.com">Baduk Pop</a>
-5. <a
-    href="https://www.google.com/search?q=the+world+go+baduk+app&oq=the+world+go+baduk+app&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDUxNzVqMWo0qAIAsAIB&sourceid=chrome&ie=UTF-8"
+5. <a href="https://www.google.com/search?q=the+world+go+baduk+app&oq=the+world+go+baduk+app&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDUxNzVqMWo0qAIAsAIB&sourceid=chrome&ie=UTF-8"
     target="_blank">The World GO</a>
 6. <a href="https://baduk.netmarble.net/" target="_blank">Netmarble Baduk</a>
 7. <a href="https://torigo.io/" target="_blank">Torigo</a> - Borderless Go

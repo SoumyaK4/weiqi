@@ -33,7 +33,18 @@ The artist haven't responded to my texts/emails yet, so I'll keep using it for n
 
 3. Other Images collected from <a href="https://www.pinterest.com/" target="_blank">Pinterest</a>
 
-## Go Platforms - most important Platforms/People that fueled my studies.
+## People I consider my Teachers in Chronological Order(Even though I never took a direct class with them)
+
+1. <a href="https://shawnsgogroup.com/" target="_blank">Shawn Ray(Clossius) 4D</a>
+2. <a href="https://www.youtube.com/user/dwyrin" target="_blank">Dwyrin 6D</a>
+1. <a href="https://www.youtube.com/channel/UCMp-4uv1jfVa0dXkZv3qQYA" target="_blank">Stephanie Yin 1P, Ryan Li 3P</a>
+1. <a href="https://gomagic.org/go-lessons/" target="_blank">Vadim Efimenko 4D</a>
+1. <a href="https://www.youtube.com/user/YungusengDojang/" target="_blank">Hwang In-Seong 8D</a>
+1. <a href="https://www.youtube.com/channel/UCA-ydBDPv0iYxcj5rTWDPDg" target="_blank">Cho Yeonwoo 2P, Youngsun Yoon 8P</a>
+1. <a href="" target="_blank"></a>
+1. <a href="" target="_blank"></a>
+
+## Go Platforms - most important Platforms that fueled my studies.
 <hr>
 
 1. <a href="https://gomagic.org/" target="_blank">Go Magic</a> - A Modern Platform for Learning the Game

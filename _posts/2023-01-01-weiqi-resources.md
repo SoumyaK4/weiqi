@@ -50,7 +50,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 27. <a href="https://www.youtube.com/@InGoWeLoved/playlists" target="_blank">In Go We Loved</a>
 28. <a href="https://www.youtube.com/@JimPlaysGo/playlists" target="_blank">Jim Plays Go</a> - Follow Along with Jim in
 his Go Journey from a Beginner to SDK.
-29. <a href="https://www.youtube.com/@jiajiago" target="_blank">JiaJiaGo"></a> - Hei Jiajia 7Dan Pro Player
+29. <a href="https://www.youtube.com/@jiajiago" target="_blank">JiaJiaGo</a> - Hei Jiajia 7Dan Pro Player
 30. <a href="https://www.tygem.fuseki.info/" target="_blank">Tygem Fuseki</a>
 31. <a href="https://www.twitch.tv/directory/category/go-1" target="_blank">Live Twitch Channels</a>
 
@@ -87,7 +87,7 @@ SGF Editor.
 6. <a href="https://www.101weiqi.com/">101Weiqi</a>
 7. <a href="https://tsumego.tasuki.org/" target="_blank">PDF Tsumego Collection</a>
 8. <a href="https://www.u-go.net/classic/" target="_blank">Classic Tsumegos</a>
-9. <a href="https://senseis.xmp.net/?ClassicalGoProblemBooks" target="_blank">Classical Tsumego Books"></a>
+9. <a href="https://senseis.xmp.net/?ClassicalGoProblemBooks" target="_blank">Classical Tsumego Books</a>
 10. <a href="https://goproblems.com/" target="_blank">GO Problems</a>
 
 ## DataBases

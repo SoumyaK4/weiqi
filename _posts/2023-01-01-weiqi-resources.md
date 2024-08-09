@@ -7,13 +7,6 @@ tags: [resources, software, server, community]
 date: 2023-01-01 00:00:00 +0530
 ---
 
-> Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank">Resources Page by Online-Go.com</a>
->
-> Found this recently so adding this at the top. You can find all kinds of Go Resources here. I was kinda stupid when I
-made this page XD, will swap it with a **My
-Personal Favourites** Page soon.... Or **I'll just keep the stuff not in the OGS page here**.
-{: .prompt-tip}
-
 ## YouTube & Twitch Channels
 
 1. Clossius <a href="https://www.youtube.com/user/clossius" target="_blank">YouTube</a> & <a
@@ -75,6 +68,8 @@ SGF Editor.
 11. <a href="https://gopatterns.uk/" target="_blank">Go Patterns</a>
 12. <a href="https://www.learngo.co.uk/GoTutor/Tutor.php" target="_blank">Go Tutor</a>
 13. <a href="https://play.google.com/store/apps/details?id=pl.happydroid.goess" target="_blank">Go Dojo Android</a>
+14. <a href="https://count.4tc.xyz/" target="_blank">Counting Practice</a>
+15. <a href="https://online-go.com/review/1005264" target="_blank">Basic Instinct Practice</a> by FireScourge
 
 ## Tsumegos
 
@@ -90,20 +85,22 @@ SGF Editor.
 7. <a href="https://tsumego.tasuki.org/" target="_blank">PDF Tsumego Collection</a>
 8. <a href="https://www.u-go.net/classic/" target="_blank">Classic Tsumegos</a>
 9. <a href="https://senseis.xmp.net/?ClassicalGoProblemBooks" target="_blank">Classical Tsumego Books"></a>
+10. <a href="https://goproblems.com/" target="_blank">GO Problems</a>
 
 ## DataBases
 
 1. <a href="https://online-go.com/joseki" target="_blank">OGS Joseki</a>
-2. [Josekipedia](https://www.josekipedia.com/)
-3. [Walthari](https://ps.waltheri.net/)
-4. [Go4Go](https://www.go4go.net/)
-5. [Go Kifu](https://gokifu.com/index.php)
-6. [Go Base](https://gobase.org/)
-7. [Go Dojo](https://play.google.com/store/apps/details?id=pl.happydroid.goess&hl=en&gl=US)
-8. [Tygem Fuseki](https://tygem.fuseki.info/)
+2. <a href="https://www.josekipedia.com/" target="_blank">Josekipedia</a>
+3. <a href="https://ps.waltheri.net/" target="_blank">Walthari Pattern Search</a>[]()
+4. <a href="https://www.go4go.net/" target="_blank">Go4Go</a>
+5. <a href="https://gokifu.com/index.php" target="_blank">Go Kifu</a>
+6. <a href="https://gobase.org/" target="_blank">Go Base</a>
+7. <a href="https://play.google.com/store/apps/details?id=pl.happydroid.goess&hl=en&gl=US" target="_blank">Go Dojo</a>
+8. <a href="https://tygem.fuseki.info/" target="_blank">Tygem Fuseki</a>
 9. <a href="https://www.1200igosharing.blog/en/blog" target="_blank"> Takumi's Blog</a>
 10. <a href="https://tesuji.uk/index1.php" target="_blank">Tesuji</a>
 11. <a href="https://haengma.uk/index1.php" target="_blank">Haengma</a>
+12. <a href="https://letsplaygo.com/" target="_blank">Lets Play Go</a>
 <!-- 9. Ahq Go -->
 
 ## Where to Play
@@ -122,3 +119,10 @@ SGF Editor.
 8. <a href="https://quantumgo.net/" target="_blank">QuantumGo</a> - Go but Quantum!!!!
 9. <a href="https://go.kahv.io/" target="_blank">Go Variant Server</a>
 10. <a href="https://baduk.club/map/" target="_blank">Offline</a>
+
+> Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank">Resources Page by Online-Go.com</a>
+>
+> Found this recently so adding this at the top. You can find all kinds of Go Resources here. I was kinda stupid when I
+made this page XD, will swap it with a **My
+Personal Favourites** Page soon.... Or **I'll just keep the stuff not in the OGS page here**.
+{: .prompt-tip}

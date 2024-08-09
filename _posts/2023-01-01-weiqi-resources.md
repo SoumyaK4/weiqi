@@ -7,6 +7,9 @@ tags: [resources, software, server, community]
 date: 2023-01-01 00:00:00 +0530
 ---
 
+> This page is **Work in Progress** and will be split into multiple pages soon....
+{: .prompt-tip}
+
 ## YouTube & Twitch Channels
 
 1. Clossius <a href="https://www.youtube.com/user/clossius" target="_blank">YouTube</a> & <a
@@ -121,8 +124,4 @@ SGF Editor.
 10. <a href="https://baduk.club/map/" target="_blank">Offline</a>
 
 > Check this <a href="https://online-go.com/docs/other-go-resources" target="_blank">Resources Page by Online-Go.com</a>
->
-> Found this recently so adding this at the top. You can find all kinds of Go Resources here. I was kinda stupid when I
-made this page XD, will swap it with a **My
-Personal Favourites** Page soon.... Or **I'll just keep the stuff not in the OGS page here**.
 {: .prompt-tip}

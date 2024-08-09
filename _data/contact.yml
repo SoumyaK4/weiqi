@@ -11,6 +11,7 @@
 - type: website
   icon: "fas fa-s"
   url: "https://soumyak4.in"
+  noblank: true
 
 - type: telegram
   icon: "fab fa-telegram"

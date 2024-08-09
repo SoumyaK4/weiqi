@@ -23,8 +23,7 @@ Lectures
 7. Daniel ML <a href="https://www.youtube.com/user/danielml01/" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/danielml001" target="_blank">Twitch</a>
 8. BenKyo <a href="https://www.youtube.com/channel/UCsH0N8Hc4e4AXTnZt8Hg6fQ/" target="_blank">YouTube</a> & <a href="https://www.twitch.tv/benkyobaduk" target="_blank">Twitch</a>
 9. <a href="https://www.youtube.com/@aigpindia" target="_blank">AIGP India</a>
-10. <a href="https://www.youtube.com/channel/UCyCA2PZzqsFlQifmSmWqe-w/" target="_blank">Yoonyoung Kim</a> - 8Dan Pro
-Player's Lectures
+10. <a href="https://www.youtube.com/channel/UCyCA2PZzqsFlQifmSmWqe-w/" target="_blank">Yoonyoung Kim</a> - 8Dan Pro Player's Lectures
 11. <a href="https://www.youtube.com/channel/UCRJyagla1B5cxIfR4i2LdgA" target="_blank">Michael Redmond's Go TV</a> -
 9Dan Pro Player's Lectures
 12. <a href="https://www.youtube.com/user/nicksibicky" target="_blank">Nick Sibicky</a>
@@ -44,8 +43,7 @@ by Cho Yeonwoo 3Dan Pro and Young Sun Yoon 8Dan Pro
 25. <a href="https://www.youtube.com/@badukmovies" target="_blank">Baduk Movies</a>
 26. <a href="https://www.youtube.com/@Weiqimaster/playlists" target="_blank">Weiqi Master</a>
 27. <a href="https://www.youtube.com/@InGoWeLoved/playlists" target="_blank">In Go We Loved</a>
-28. <a href="https://www.youtube.com/@JimPlaysGo/playlists" target="_blank">Jim Plays Go</a> - Follow Along with Jim in
-his Go Journey from a Beginner to SDK.
+28. <a href="https://www.youtube.com/@JimPlaysGo/playlists" target="_blank">Jim Plays Go</a> - Follow Along with Jim in his Go Journey from a Beginner to SDK.
 29. <a href="https://www.youtube.com/@jiajiago" target="_blank">JiaJiaGo</a> - Hei Jiajia 7Dan Pro Player
 30. <a href="https://www.tygem.fuseki.info/" target="_blank">Tygem Fuseki</a>
 31. <a href="https://www.twitch.tv/directory/category/go-1" target="_blank">Live Twitch Channels</a>
@@ -54,15 +52,13 @@ his Go Journey from a Beginner to SDK.
 
 1. <a href="https://online-go.com/learn-to-play-go" target="_blank">OGS Tools</a> - A bunch of tools inside OGS
 2. <a href="https://ai-sensei.com/" target="_blank">AI Sensei</a> – Review your games with AI according to your level
-3. <a href="https://github.com/sanderland/katrain/releases/latest" target="_blank">Katrain</a> – A Software that uses
-KataGo AI to train you. I love the teaching games feature.
+3. <a href="https://github.com/sanderland/katrain/releases/latest" target="_blank">Katrain</a> – A Software that uses KataGo AI to train you. I love the teaching games feature.
 4. <a href="https://sabaki.yichuanshen.de/" target="_blank">Sabaki</a> – A SGF Editor where you can also analyze with AI
 5. <a href="https://github.com/featurecat/lizzie/releases/latest" target="_blank">Lizzie</a> – A GUI for LeelaZero AI
-6. <a href="https://en.freedownloadmanager.org/Windows-PC/MultiGo-FREE.html" target="_blank">MultiGo</a> – My favourite
-SGF Editor.
+6. <a href="https://en.freedownloadmanager.org/Windows-PC/MultiGo-FREE.html" target="_blank">MultiGo</a> – My favourite SGF Editor.
 7. <a href="https://gowrite.net/" target="_blank">GOWrite</a> – Another nice looking SGF Editor.
 8. <a href="https://www.19x19.com/engine/index" target="_blank">Golaxy</a> - China's popular AI training tool.
-9. <a href="https://avavt.github.io/gotstats/#/" target="_blank">Game Stats Tool</a>
+9. <a href="https://avavt.github.io/gotstats/" target="_blank">Game Stats Tool</a>
 10. <a href="https://gobyexample.uk/" target="_blank">Go By Example</a>
 11. <a href="https://gopatterns.uk/" target="_blank">Go Patterns</a>
 12. <a href="https://www.learngo.co.uk/GoTutor/Tutor.php" target="_blank">Go Tutor</a>
@@ -87,7 +83,7 @@ SGF Editor.
 
 1. <a href="https://online-go.com/joseki" target="_blank">OGS Joseki</a>
 2. <a href="https://www.josekipedia.com/" target="_blank">Josekipedia</a>
-3. <a href="https://ps.waltheri.net/" target="_blank">Walthari Pattern Search</a>[]()
+3. <a href="https://ps.waltheri.net/" target="_blank">Walthari Pattern Search</a>
 4. <a href="https://www.go4go.net/" target="_blank">Go4Go</a>
 5. <a href="https://gokifu.com/index.php" target="_blank">Go Kifu</a>
 6. <a href="https://gobase.org/" target="_blank">Go Base</a>
